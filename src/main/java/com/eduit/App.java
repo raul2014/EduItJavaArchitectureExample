@@ -11,7 +11,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        final String nombre = StringUtils.capitalize("rjc");
+        final String nombre = StringUtils.capitalize("MV");
         System.out.println(nombre);
     }
 }
